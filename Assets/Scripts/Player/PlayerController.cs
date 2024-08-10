@@ -208,6 +208,6 @@ public class PlayerController : MonoBehaviour
 
     void IncreaseGravity()
     {
-        rb.gravityScale = 10;
+        rb.gravityScale = 3;
     }
 }
